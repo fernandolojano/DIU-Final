@@ -31,7 +31,7 @@ justificarlo) en el área de UI/UX.
 Para poder realizar un análisis de competencia correcto, se han escogido dos páginas web cuyo propósito de existencia es el mismo que [Yuzin](http://www.yuzin.com/). Estas páginas son [madridcultura](https://www.madridcultura.es/) y [amexessentials](https://www.amexessentials.com/). Los resultados del análisis obtenidos son:
 
 
-<img src="imgs/tablaAC.PNG" width=25% height=25%>
+<img src="imgs/tablaAC.PNG" width=75% height=75%>
 
 
 
