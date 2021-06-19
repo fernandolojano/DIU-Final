@@ -53,6 +53,37 @@ No se va a realizar ninguna tabla User Journey map pues no se considera necesari
 
 ## Revisión de Usabilidad
 
+Durante la revisión de usabilidad se ha obtenido una puntuación de 
+
+
+## Malla receptora de información
+
+<img src="imgs/MallaYuzin.png" width=25% height=25%>
+
+
+## Análisis de tareas
+
+<img src="imgs/MatrizYuzin.PNG" width=25% height=25%>
+
+
+## Arquitectura de información
+
+## Prototipo Lo-Fi
+
+
+
+## Conclusiones
+
+Desde mi punto de vista, realmente no es necesario realizar un rediseño completo o masivo de la página, la estructura que ofrece es lo suficientemente intuitiva como para comprender sin demasiada dificultad en qué parte de la web nos encontramos y que estamos viendo exactamente. Además, la interfaz que nos ofrece en cuanto a colores, a pesar de ser bastante simple, resulta agradable, transmitiendo una sensación de energía y alegría debido sobre todo al color amarillo. Si bien es cierto que se podrían escoger más colores para separar un poco más las diferentes secciones que ofrece la web, el uso del amarillo para marcar o destacar las partes principales como la barra del navegador, el título de las diferentes opiniones disponibles o el cuadro de un evento disponible es más que suficiente para reconocer las diferentes secciones.
+
+No obstante, si que hay cambios que pueden mejorar la experiencia del usuario en cuanto a estructura, sobre todo cuando realizamos un re-escalado de la web a resoluciones menores, ya que cuando esto sucede, las imágenes de las personas que han escrito las opiniones se separan completamente de sus respectivos articulos quedando aislados entre sí. Como solución a ese problema, se eliminará el texto completo de las opiniones y se dejarán unicamente la imagen y el título correspondientes a las opiniones estando estos elementos superpuestos entre sí.
+
+En cuanto a si me parece correcto el cambio realizado en la web con respecto a la versión anterior, la respuesta es sí, parcialmente. Este rediseño ha automatizado el proceso completo de búsqueda, de forma que si una persona no quiere leer todos los eventos disponibles y buscar uno en concreto, únicamente tiene que usar el motor de búsqueda implementado. Además, la nueva funcionalidad de compra de tickets para los eventos incluyendo incluso descuentos para aquellos asociados a la web es realmente útil y agiliza el proceso de obtención de los billetes evitando que tengamos que hacer una cola en la taquilla para comprarlos. Por otra parte, si se quiere leer la revista que se ofrecía anteriormente, únicamente se debe proceder a la descarga del documento.
+
+Sin embargo, mi punto de confusión llega en el momento de la introducción de las opiniones.
+
+
+
 
 
 
