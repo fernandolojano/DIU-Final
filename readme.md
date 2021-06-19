@@ -3,7 +3,7 @@ Trabajo final 2020-21: Resolución de un problema, caso y/o supuesto práctico
 Descripción :
 Repositorio dedicado a la realización del trabajo final de la asignatura Diseño de interfaces de usuario.
 
-Miembros
+Autor
  * :bust_in_silhouette: Gabriel Fernando Lojano Mayaguari       :octocat:     fernandolojano
 
 
@@ -26,6 +26,18 @@ justificarlo) en el área de UI/UX.
 
 
 # Caso de estudio: Web Yuzin
+
+## Análisis competencia
+
+## Experiencia de Usuario
+
+## Uer Journey map
+
+## Revisión de Usabilidad
+
+
+
+
 
 
 
