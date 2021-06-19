@@ -28,10 +28,19 @@ justificarlo) en el área de UI/UX.
 # Caso de estudio: Web Yuzin
 
 ## Análisis competencia
+Para poder realizar un análisis de competencia correcto, se han escogido dos páginas web cuyo propósito de existencia es el mismo que [Yuzin](http://www.yuzin.com/). Estas páginas son [madridcultura](https://www.madridcultura.es/) y [amexessentials](https://www.amexessentials.com/). Los resultados del análisis obtenidos son:
+
+
+<img src="imgs/tablaAC.PNG" width=25% height=25%>
+
+
+
+En esta tabla se puede ver como, a pesar de presentar ciertas desventajas como la ausencia de una sección de accesibilidad y de lenguajes adicionales al principal, la puntuación total que obtiene [Yuzin](http://www.yuzin.com/) es mejor que el resto de las páginas que se han analizado. La página destaca sobre todo en la información que provee así como la sencillez del proceso de contacto con el personal de la página. Pero sobre todo, su utilidad es mayor que las otras dos páginas pues incluye la opción directa de compra de tickets para los eventos que muestra.
 
 ## Experiencia de Usuario
 
-## Uer Journey map
+
+## User Journey map
 
 ## Revisión de Usabilidad
 
