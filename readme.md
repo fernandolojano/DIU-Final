@@ -4,7 +4,7 @@ Descripción :
 Repositorio dedicado a la realización del trabajo final de la asignatura Diseño de interfaces de usuario.
 
 Autor:
- * :bust_in_silhouette: Fernando Lojano Mayaguari   
+ * :bust_in_silhouette: Fernando Lojano Mayaguari      :octocat: fernandolojano
 
 
 
@@ -55,8 +55,14 @@ Se han creado dos personajes ficticios que harán uso de la página:
 
 ## User Journey map
 
-No se va a realizar ninguna tabla User Journey map pues no se considera necesario.
+1. Antonio Palacios
+Este usuario comenzará a utilizar esta página como entretenimiento y obtención de información, con el objetivo y esperanza de encontrar algún evento que le pueda resultar de interés. Como se ha mencionado anteriormente, era usuario de la antigua versión de esta página web y esta vez al acceder a la página, se muestra sorprendido pues no se parece en nada a la versión anterior. Al principio navega perdido por la página web, sin buscar nada en especial, sólamente saciando su curiosidad ante los nuevos cambios. 
+Finalmente, decide buscar algún evento. Se fija en que existe una opción para buscar eventos en Sevilla. Antonio, ni corto ni perezoso, decide realizar una búsqueda sobre cualquier evento que se dé en Sevilla. Sin embargo, el resultado que obtiene le confunde, pues según el motor de búsqueda, no hay ningún evento disponible en Sevilla, en ningún momento del futuro. Decide centarse y realizar una búsqueda sobre Granada y para su sorpresa, esta vez si que se muestran los diferentes eventos disponibles. Pincha en un evento de ruta guiada que le ha llamado la atención y observa su descripción, ubicación y precio. Si bien desearía que hubiesen mas imágenres descriptivas, acaba satisfecho y decide realizar la compra de forma online. 
+Una vez está en el proceso de pago, se da cuenta de que existe un descuento para los socios de la página web. Inmediatamente, se dispone a registrarse en la página web. 
+No obstante, por muchas veces que intente seleccionar una tarifa, el proceso de registro se queda estancado en la página de tarifas, impidiendole registrarse. Resignado y abatido, decide realizar la compra sin descuento, no sin antes enviar un correo al personal de la página web informando del mal funcionamiento de la página.
 
+
+2. Andrea Guelluy
 
 ## Revisión de Usabilidad
 
@@ -90,29 +96,29 @@ Una vez listados los errores encontrados a primera vista, se presenta el nuevo d
 
 <img src="imgs/Web1921.png" width=75% height=75%>
 
+En él se ha cubierto la mayor parte de los problemas mencionados anteriormente junto con el re estructurado de los elementos y añadido de nuevas funcionalidades tales como el cambio de idioma, un enlace a la sección de accesibilidad y apartados dedicados a las redes sociales.
+
 
 
 ## Conclusiones
 
 Desde mi punto de vista, realmente no es necesario realizar un rediseño completo o masivo de la página, la estructura que ofrece es lo suficientemente intuitiva como para comprender sin demasiada dificultad en qué parte de la web nos encontramos y que estamos viendo exactamente. Además, la interfaz que nos ofrece en cuanto a colores, a pesar de ser bastante simple, resulta agradable, transmitiendo una sensación de energía y alegría debido sobre todo al color amarillo. Si bien es cierto que se podrían escoger más colores para separar un poco más las diferentes secciones que ofrece la web, el uso del amarillo para marcar o destacar las partes principales como la barra del navegador, el título de las diferentes opiniones disponibles o el cuadro de un evento disponible es más que suficiente para reconocer las diferentes secciones.
 
-No obstante, si que hay cambios que pueden mejorar la experiencia del usuario en cuanto a estructura, sobre todo cuando realizamos un re-escalado de la web a resoluciones menores, ya que cuando esto sucede, las imágenes de las personas que han escrito las opiniones se separan completamente de sus respectivos articulos quedando aislados entre sí. Como solución a ese problema, se eliminará el texto completo de las opiniones y se dejarán unicamente la imagen y el título correspondientes a las opiniones estando estos elementos superpuestos entre sí.
+No obstante, si que hay cambios que pueden mejorar la experiencia del usuario en cuanto a estructura, sobre todo cuando realizamos un re-escalado de la web a resoluciones menores, ya que cuando esto sucede, las imágenes de las personas que han escrito las opiniones se separan completamente de sus respectivos articulos quedando aislados entre sí. 
 
-En cuanto a si me parece correcto el cambio realizado en la web con respecto a la versión anterior, la respuesta es sí, parcialmente. Este rediseño ha automatizado el proceso completo de búsqueda, de forma que si una persona no quiere leer todos los eventos disponibles y buscar uno en concreto, únicamente tiene que usar el motor de búsqueda implementado. Además, la nueva funcionalidad de compra de tickets para los eventos incluyendo incluso descuentos para aquellos asociados a la web es realmente útil y agiliza el proceso de obtención de los billetes evitando que tengamos que hacer una cola en la taquilla para comprarlos. Por otra parte, si se quiere leer la revista que se ofrecía anteriormente, únicamente se debe proceder a la descarga del documento.
+Además, la aparición de un número de telefono al inicio de la página me parece una opción un poco intrusiva y por ende, se ha movido su correspondiente icono y "suspuestos" datos al footer, en la zona de las redes sociales.
 
-Sin embargo, mi punto de confusión llega en el momento de la introducción de las opiniones.
+Para solucionar el problema de las imágenes desencuadradas en el header y con información no visible por falta de espacio, se ha aumentando el tamaño de esta sección para que ocupe una pantalla completa, mejorando así su estética y solucionando el problema de falta de espacio.
 
+El último cambio notable llevado a cabo tiene que ver con la pregunta realizada en el documento de esta entrega:
+- ¿Considerarías que es adecuado el rediseño realizado?¿Se ha aplicado bien el rediseño para mejorar la experiencia del usuario?
 
+En cuanto a si me parece correcto el cambio realizado en la web con respecto a la versión anterior, la respuesta es: sí, parcialmente. 
+Este rediseño ha automatizado el proceso completo de búsqueda, de forma que si una persona no quiere leer todos los eventos disponibles y buscar uno en concreto, únicamente tiene que usar el motor de búsqueda implementado. Además, la nueva funcionalidad de compra de tickets para los eventos incluyendo incluso descuentos para aquellos asociados a la web es realmente útil y agiliza el proceso de obtención de los billetes evitando que tengamos que hacer una cola en la taquilla para comprarlos. Por otra parte, si se quiere leer la revista que se ofrecía anteriormente, únicamente se debe proceder a la descarga del documento.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Sin embargo, mi punto de confusión llega en el momento de la aplicación del rediseño y introducción de las opiniones.
+Entiendo que se ha intentado añadir una nueva faceta para la página y es la inclusión de "Opiniones" sobre los diferentes ámbitos de eventos culturales disponibles en la página web. 
+Supongo que ese es el objetivo de las opiniones y que no cumplen la funcionalidad de reseña ni de entradas de blog.
+Es cierto que ha añadido una nueva funcionalidad, pero la esencia de la página debería ser la misma, ser capaz de mostrar eventos que nos puedan ser de interés. 
+Debido a esto, veo poco razonable que la sección de "Opiniones" ocupe más de la mitad de la página principal y que tenga muchísima mas presencialidad de los propios eventos, ya que cada una de estas entradas son exageradamente grandes puesto que constan de la imagen del autor, el título de la entrada y una porción del texto mostrado como introducción.
+Como consecuencia a este razonamiento, el último cambio llevado a cabo ha sido la re-estructuración de las secciones disponibles, de forma que los eventos, aunque sean pocos, vayan antes y que, como dato adicional, nos encontremos con las opiniones redactadas, reduciendo considerablemente el espacio que estas ocupan incluyendo únicamente la foto del autor y el título de la entrada junto con el nombre del autor, estando toda esta información superpuesta sobre la misma foto del autor.
