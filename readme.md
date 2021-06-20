@@ -72,6 +72,11 @@ Durante la revisión de usabilidad se ha obtenido una puntuación de
 
 
 
+
+
+
+
+
 ## Conclusiones
 
 Desde mi punto de vista, realmente no es necesario realizar un rediseño completo o masivo de la página, la estructura que ofrece es lo suficientemente intuitiva como para comprender sin demasiada dificultad en qué parte de la web nos encontramos y que estamos viendo exactamente. Además, la interfaz que nos ofrece en cuanto a colores, a pesar de ser bastante simple, resulta agradable, transmitiendo una sensación de energía y alegría debido sobre todo al color amarillo. Si bien es cierto que se podrían escoger más colores para separar un poco más las diferentes secciones que ofrece la web, el uso del amarillo para marcar o destacar las partes principales como la barra del navegador, el título de las diferentes opiniones disponibles o el cuadro de un evento disponible es más que suficiente para reconocer las diferentes secciones.
